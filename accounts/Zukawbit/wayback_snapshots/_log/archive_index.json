@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T10:10:39",
+  "last_updated": "2026-08-02T10:11:06",
   "html": {
     "https://web.archive.org/web/20260627120355if_/https://twitter.com/Zukawbit/status/2070840545346560203": {
       "status": "done",
@@ -181,18 +181,18 @@
       "referenced_by": [
         "20260630101355_twitter_com_Zukawbit_status_2071900027518382465.json"
       ],
-      "last_updated": "2026-08-02T04:56:23",
+      "last_updated": "2026-08-02T10:11:02",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260630101355/https://pbs.twimg.com/media/HMDeGB5XYAANnL7.png",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HMDeX11WUAAVLUN.png": {
       "status": "failed_all",
       "referenced_by": [
         "20260630101507_twitter_com_Zukawbit_status_2071900332486177129.json"
       ],
-      "last_updated": "2026-08-02T04:56:25",
+      "last_updated": "2026-08-02T10:11:06",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260630101507/https://pbs.twimg.com/media/HMDeX11WUAAVLUN.png",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HN9po3Na4AAUAEY.jpg": {
       "status": "done",
