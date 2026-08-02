@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068065912067104768",
+    "conversation_id": "2070813934853279759",
+    "created_at": "2026-06-27T10:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070813934853279759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ace_Purin/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Ace_Purin/status/2070116670111436897",
+          "start": 5,
+          "url": "https://t.co/7G2cbuT2XK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070813934853279759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070116670111436897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我心情： https://t.co/7G2cbuT2XK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068065912067104768",
+        "conversation_id": "2070813934853279759",
+        "created_at": "2026-06-27T10:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070813934853279759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ace_Purin/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Ace_Purin/status/2070116670111436897",
+              "start": 5,
+              "url": "https://t.co/7G2cbuT2XK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070813934853279759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070116670111436897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我心情： https://t.co/7G2cbuT2XK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2070116670111436897",
+        "created_at": "2026-06-25T12:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070116670111436897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070116670111436897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉想买点rc结果看来看去没什么想吃的只想要mdma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-19T20:19:35.000Z",
+        "description": "enby，he/they|提前开始寻回互关，，，",
+        "id": "2068065912067104768",
+        "name": "Larymol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070795717145141248/z-fwyk8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 37,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Zukawbit",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 294,
+          "like_count": 3458,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2390
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

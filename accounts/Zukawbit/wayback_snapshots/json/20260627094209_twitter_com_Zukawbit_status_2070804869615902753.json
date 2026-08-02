@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070804859088187392"
+      ]
+    },
+    "author_id": "2068065912067104768",
+    "conversation_id": "2070804869615902753",
+    "created_at": "2026-06-27T09:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070804869615902753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ivxUwSozOc",
+          "end": 50,
+          "expanded_url": "https://x.com/Zukawbit/status/2070804869615902753/photo/1",
+          "media_key": "3_2070804859088187392",
+          "start": 27,
+          "url": "https://t.co/ivxUwSozOc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070804869615902753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "补档一下基于ai模型创作的虚构艺术作品，请注意分辨🥺 https://t.co/ivxUwSozOc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_2070804859088187392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz6DDkasAAGzMp.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070804859088187392"
+          ]
+        },
+        "author_id": "2068065912067104768",
+        "conversation_id": "2070804869615902753",
+        "created_at": "2026-06-27T09:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070804869615902753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivxUwSozOc",
+              "end": 50,
+              "expanded_url": "https://x.com/Zukawbit/status/2070804869615902753/photo/1",
+              "media_key": "3_2070804859088187392",
+              "start": 27,
+              "url": "https://t.co/ivxUwSozOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070804869615902753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补档一下基于ai模型创作的虚构艺术作品，请注意分辨🥺 https://t.co/ivxUwSozOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-19T20:19:35.000Z",
+        "description": "enby，he/they|提前开始寻回互关，，，",
+        "id": "2068065912067104768",
+        "name": "Larymol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070795717145141248/z-fwyk8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 25,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "Zukawbit",
+        "verified": false
+      }
+    ]
+  }
+}

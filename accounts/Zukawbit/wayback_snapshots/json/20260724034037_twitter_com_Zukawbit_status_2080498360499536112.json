@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068065912067104768",
+    "conversation_id": "2080495786627154321",
+    "created_at": "2026-07-24T03:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080498360499536112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080498360499536112",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080495786627154321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 盯，，，(👁️   )(   👁️)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2080495780457279488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9n467a8AAL4yy.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068065912067104768",
+        "conversation_id": "2080495786627154321",
+        "created_at": "2026-07-24T03:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080498360499536112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080498360499536112",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080495786627154321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 盯，，，(👁️   )(   👁️)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080495780457279488"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2080495786627154321",
+        "created_at": "2026-07-24T03:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080495786627154321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "2068065912067104768",
+              "start": 20,
+              "username": "Zukawbit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BWndD9bZT0",
+              "end": 53,
+              "expanded_url": "https://x.com/YLS69979546/status/2080495786627154321/photo/1",
+              "media_key": "3_2080495780457279488",
+              "start": 30,
+              "url": "https://t.co/BWndD9bZT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080495786627154321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了，这个点赞好搞笑，两只猫面面相觑@Zukawbit https://t.co/BWndD9bZT0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-19T20:19:35.000Z",
+        "description": "@Lomyral896444的附庸。\nenby，he/they|提前开始寻回互关，，，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Lomyral896444"
+              }
+            ]
+          }
+        },
+        "id": "2068065912067104768",
+        "name": "Larymol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070795717145141248/z-fwyk8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 143,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Zukawbit",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 144,
+          "like_count": 8118,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1589
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

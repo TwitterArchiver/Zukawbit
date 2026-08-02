@@ -1,0 +1,20 @@
+{
+  "name": "Larymol",
+  "username": "@Zukawbit",
+  "bio": "@Lomyral896444的附庸。 enby，he/they|提前开始寻回互关，，，",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 14,
+        "start": 0,
+        "username": "Lomyral896444"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2070795717145141248/z-fwyk8C_normal.jpg"
+}
