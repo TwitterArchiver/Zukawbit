@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2068065912067104768",
+    "conversation_id": "2087457334339764422",
+    "created_at": "2026-08-12T08:33:06.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087457334339764422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087457334339764422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "钢珠1161我爽飞了，难以想象这还是在用了sr的情况下能体验到的欣快感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068065912067104768",
+        "conversation_id": "2087457334339764422",
+        "created_at": "2026-08-12T08:33:06.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087457334339764422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087457334339764422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "钢珠1161我爽飞了，难以想象这还是在用了sr的情况下能体验到的欣快感"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T20:19:35.000Z",
+        "description": "@Lomyral896444的附庸。\nenby，he/they|提前开始寻回互关，，，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Lomyral896444"
+              }
+            ]
+          }
+        },
+        "id": "2068065912067104768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087457334339764422",
+        "name": "Larymol",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070795717145141248/z-fwyk8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 166,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Zukawbit",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
